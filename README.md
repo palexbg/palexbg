@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Current projects
+
+- **Memorability: Predicting movie and commercial memorability**
+  - Working on subtask 2 (Commercial/Ad memorability) as part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
 
 ## Selected projects on Information Retrieval
 
