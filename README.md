@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - **Quantum Annealing for Machine Learning Research**
   - [Paper](https://arxiv.org/pdf/2507.15063?) | [Code (Task 1)](https://github.com/dsgt-arc/qclef-2025-feature) | [Code (Task 2)](https://github.com/dsgt-arc/qclef-2025-instance) | [Code (Task 3)](https://github.com/dsgt-arc/qclef-2025-clustering)
   - Submitted to [QuantumCLEF 2025](https://qclef.dei.unipd.it/clef2025-lab) and accepted for publication and oral presentation.  
-  - Our work explored Quantum Annealing approaches in 3 classical ML problems: Feature Selection, Instance Selection and Clustering.
-  - Quantum Annealing needs to express the ML problem in a Quadratic Unconstrained Binary Optimization (QUBO) form.
-  - We explore various such QUBO formulations for the aforementioned problems and evaluate results using D-Wave quantum annealing system. We benchmark our results with a classical Simulated Annealing evaluation. 
-  - Our proposed systems achieved good performance and ranking across all 3 tasks. 
+  - Our work explored Quantum Annealing approaches in 3 classical ML problems: Feature Selection, Instance Selection and Clustering. Quantum Annealing needs to express the ML problem in a Quadratic Unconstrained Binary Optimization (QUBO) form.
+  - We explore various such QUBO formulations for the 3 tasks and evaluate the results using D-Wave quantum annealing system. We benchmark our results with a classical Simulated Annealing evaluation. 
+  - Our proposed systems achieved good performance and ranking across all tasks. 
