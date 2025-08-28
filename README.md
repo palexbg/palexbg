@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Selected projects on Information Retrieval
 
 - **Multilingual Claim-Normalisation RAG**
-  - [Paper](https://arxiv.org/abs/2508.17402) 
+  - [Paper](https://arxiv.org/abs/2508.17402) | [Code](https://github.com/dsgt-arc/checkthat-2025-claims)
   - Research submitted to [CLEF CheckThat! 2025 (Task 2)](https://checkthat.gitlab.io/clef2025/task2/) and accepted for publication.
   - We propose a retrieval-first, LLM-backed pipeline for claim normalization, a critical second step in automated fact-checking systems that follows claim retrieval. 
   - By dynamically prompting GPT-4o-mini or retrieving close matches in the training data, the system achieved first place in 7 out of 13 monolingual language tracks.
