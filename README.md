@@ -16,30 +16,30 @@ Here are some ideas to get you started:
 -->
 ## Current projects
 
-- **Memorability: Predicting movie and commercial memorability**
+- **Memorability: Predicting movie and commercial memorability** (2025)
   - Working on subtask 2 (Commercial/Ad memorability) as part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
 
 ## Selected projects on Information Retrieval
 
-- **Multilingual Claim-Normalisation RAG**
+- **Multilingual Claim-Normalisation RAG** (2025)
   - [Paper](https://arxiv.org/abs/2508.17402) | [Code](https://github.com/dsgt-arc/checkthat-2025-claims)
   - Research submitted to [CLEF CheckThat! 2025 (Task 2)](https://checkthat.gitlab.io/clef2025/task2/) and accepted for publication.
   - We propose a retrieval-first, LLM-backed pipeline for claim normalization, a critical second step in automated fact-checking systems that follows claim retrieval. 
   - By dynamically prompting GPT-4o-mini or retrieving close matches in the training data, the system achieved first place in 7 out of 13 monolingual language tracks.
 
-- **Numerical Claim Veracity Classifier** 
+- **Numerical Claim Veracity Classifier** (2025)
   - [Paper](https://arxiv.org/pdf/2507.06195) | [Code](https://github.com/dsgt-arc/checkthat-2025-numerical)
   - Another research submission to [CLEF CheckThat! 2025 (Task 3)](https://checkthat.gitlab.io/clef2025/task3/), accepted for publication and oral presentation at the [CLEF 2025 conference](https://clef2025.clef-initiative.eu/).
   - This study evaluated modeling strategies for veracity prediction of numerical and temporal claims using a hybrid BM25 sparse retriever, transformer reranker, and a long-context BERT-based veracity classifier (ModernBERT). 
   - The system achieved a 4/11 position in the English language track.
 
-- **Temporal Performance Analysis in Web Search** 
+- **Temporal Performance Analysis in Web Search** (2025) 
   - [Paper](https://arxiv.org/pdf/2507.08360) | [Code](https://github.com/dsgt-arc/longeval-2025)
   - Submitted to [CLEF LongEval 2025 (Task 1)](https://clef-longeval.github.io/tasks/)  and accepted for publication.
   - We propose a two-phase information retrieval pipeline (sparse retrieval & reranking) to assess temporal performance in web search systems, employing sparse keyword searches, query expansion, and document reranking
   - We also perform topic modeling of the underlying web searches over time.
 
-- **Quantum Annealing for Machine Learning Research**
+- **Quantum Annealing for Machine Learning Research** (2025)
   - [Paper](https://arxiv.org/pdf/2507.15063?) | [Code (Task 1)](https://github.com/dsgt-arc/qclef-2025-feature) | [Code (Task 2)](https://github.com/dsgt-arc/qclef-2025-instance) | [Code (Task 3)](https://github.com/dsgt-arc/qclef-2025-clustering)
   - Submitted to [QuantumCLEF 2025](https://qclef.dei.unipd.it/clef2025-lab) and accepted for publication and oral presentation.  
   - Our work explored Quantum Annealing approaches in 3 classical ML problems: Feature Selection, Instance Selection and Clustering. Quantum Annealing needs to express the ML problem in a Quadratic Unconstrained Binary Optimization (QUBO) form.
