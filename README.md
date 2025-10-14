@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - **LLM-based Fusion of Multi-modal Features for Commercial Memorability Prediction** (2025)
   - Paper (in progress) | Code (in progress) 
-  - part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
+  - Proposed a multimodal fusion system using a Gemma-3 LLM, fine-tuned with LoRA, to predict commercial and brand memorability scores for the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/).
+  - The system fuses pre-computed visual (ViT) and textual (E5) features via trainable linear projections and guided by novel LLM-generated rationales that provide expert-like qualitative analysis of the video's content.
 
 - **Multilingual Claim-Normalisation RAG** (2025)
   - [Paper](https://arxiv.org/abs/2508.17402) | [Code](https://github.com/dsgt-arc/checkthat-2025-claims)
