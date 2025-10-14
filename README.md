@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - **LLM-based Fusion of Multi-modal Features for Commercial Memorability Prediction** (2025)
   - part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
 
-## Selected projects on Information Retrieval
+## Selected projects on Information Retrieval, LLM & Predictive Models
 
 - **Multilingual Claim-Normalisation RAG** (2025)
   - [Paper](https://arxiv.org/abs/2508.17402) | [Code](https://github.com/dsgt-arc/checkthat-2025-claims)
