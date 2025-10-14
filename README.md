@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Current projects
 
-- **Memorability: Predicting movie and commercial memorability** (2025)
-  - Working on subtask 2 (Commercial/Ad memorability) as part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
+- **LLM-based Fusion of Multi-modal Features for Commercial Memorability Prediction** (2025)
+  - part of the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/)
 
 ## Selected projects on Information Retrieval
 
