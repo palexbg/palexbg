@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Selected projects in AI Systems and Information Retrieval
 
 - **LLM-based Fusion of Multi-modal Features for Commercial Memorability Prediction** (2025)
-  - Paper (in progress) | Code (in progress) 
+  - Paper (in progress) | [Code](https://github.com/dsgt-arc/mediaeval-2025-memorability) (in progress) 
   - Proposed a multimodal fusion system using a Gemma-3 LLM, fine-tuned with LoRA, to predict commercial and brand memorability scores for the [Mediaeval 2025 challenge](https://multimediaeval.github.io/editions/2025/tasks/memorability/).
   - The system fuses pre-computed visual (ViT) and textual (E5) features via trainable linear projections and guided by novel LLM-generated rationales that provide expert-like qualitative analysis of the video's content.
 
