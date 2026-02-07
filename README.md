@@ -17,15 +17,15 @@ Here are some ideas to get you started:
  
 ## Current projects
 - **Scalable Cross-Asset Risk Monitoring Engine** (2025/2026)
-- [Code](https://github.com/palexbg/cross-asset-monitoring) | [Dashboard](https://cross-asset-monitoring.streamlit.app/)
+	- [Code](https://github.com/palexbg/cross-asset-monitoring) | [Dashboard](https://cross-asset-monitoring.streamlit.app/)
+	- The risk engine is *highly scalable*, employing Numba-accelerated kernels to perform parent-child factor orthogonalization, which reduces overlap in the risk factor attribution.
+	- Designed and built a Streamlit dashboard for monitoring multi-asset portfolios through performance, factor exposures, and risk contributions.
+	- This dashboard implements an educational demonstration of a compact, transparent cross-asset "factor-based lens" workflow using investable ETF proxies and a small parent–child factor hierarchy.
+	- The design draws inspiration from industry research on cross-asset factor-based risk analysis (e.g., publicly available e.g. [here](https://www.venn.twosigma.com/resources/incorporating-historical-portfolio-analysis-into-your-workflows)).
 
-- Designed and built a Streamlit dashboard for monitoring multi-asset portfolios through performance, factor exposures, and risk contributions.
-- This dashboard implements an **educational demonstration** of a compact, transparent cross-asset "factor-based lens" workflow using investable ETF proxies and a small parent–child factor hierarchy.
-- The risk engine is *highly scalable*, employing Numba-accelerated kernels to perform parent-child factor orthogonalization, which reduces overlap in the risk factor attribution.
-- Integrated an LLM "AI Quant Analyst" assistant using retrieval-augmented generation (RAG) to provide interactive, **grounded** explanations of portfolio risk and methodology.
-- Built a comprehensive backtesting engine that simulates long-only portfolios with customizable rebalancing schedules and automated transaction cost modeling.
-- The design draws inspiration from industry research on cross-asset factor-based risk analysis (e.g., publicly available e.g. [here](https://www.venn.twosigma.com/resources/incorporating-historical-portfolio-analysis-into-your-workflows)).
- 
+	- Integrated an LLM "AI Quant Analyst" assistant using retrieval-augmented generation (RAG) to provide interactive, **grounded** explanations of portfolio risk and methodology.
+	- Built a comprehensive backtesting engine that simulates long-only portfolios with customizable rebalancing schedules and automated transaction cost modeling.
+
 
 ## Selected projects in AI Systems and Information Retrieval
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - **Numerical Claim Veracity Classifier** (2025)
   - [Paper](https://arxiv.org/pdf/2507.06195) | [Code](https://github.com/dsgt-arc/checkthat-2025-numerical)
-  - Another research participation in [CLEF CheckThat! 2025 (Task 3)](https://checkthat.gitlab.io/clef2025/task3/), accepted for publication in CEUR-WS and oral presentation at the [CLEF 2025 conference](https://clef2025.clef-initiative.eu/).
+  - Another research participation in [CLEF CheckThat! 2025 (Task 3)](https://checkthat.gitlab.io/clef2025/task3/), published in CEUR-WS and oral presentation at the [CLEF 2025 conference](https://clef2025.clef-initiative.eu/).
   - Published for [CLEF CheckThat! 2025 (Task 3)](https://checkthat.gitlab.io/clef2025/task3/), and presented at [CLEF 2025 conference](https://clef2025.clef-initiative.eu/).
   - This study evaluated modeling strategies for veracity prediction of numerical and temporal claims using a hybrid BM25 sparse retriever, transformer reranker, and a long-context BERT-based veracity classifier (ModernBERT). 
   - The system achieved a 4/11 position in the English language track.
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 - **Temporal Performance Analysis in Web Search** (2025) 
   - [Paper](https://arxiv.org/pdf/2507.08360) | [Code](https://github.com/dsgt-arc/longeval-2025)
   - Published for [CLEF LongEval 2025 (Task 1)](https://clef-longeval.github.io/tasks/).
->>>>>>> e8af3e4493b4ee41b9a26ab471252457221b05d2
   - We propose a two-phase information retrieval pipeline (sparse retrieval & reranking) to assess temporal performance in web search systems, employing sparse keyword searches, query expansion, and document reranking
   - We also perform topic modeling of the underlying web searches over time.
 
